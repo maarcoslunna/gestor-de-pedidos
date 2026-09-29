@@ -37,3 +37,8 @@ Durante el desarrollo de esta aplicación se consolidaron principios fundamental
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/maarcoslunna/GESTOR-de-PEDIDOS.git](https://github.com/maarcoslunna/GESTOR-de-PEDIDOS.git)
+
+1.Accede al directorio:
+cd GESTOR-de-PEDIDOS
+
+2.Abre el archivo index.html en tu navegador o con Live Server en VS Code.
